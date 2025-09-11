@@ -1,23 +1,9 @@
 # Liverpool FC RAG 시스템 코드
 
 
-## 실행 명령어
-
-### 프로젝트 설정
-```bash
-# 프로젝트 디렉토리 생성
-mkdir liverpool-fc-rag
-cd liverpool-fc-rag
-
-# .env 파일 생성 (API 키 입력 필요)
-cp .env.template .env
-nano .env  # OpenAI API 키 입력
-```
-
 
 ## 접속 URL
-- **로컬**: http://localhost:8501
-- **Docker**: http://localhost:8501
+http://localhost:8501
 
 ## 주요 기능
 
